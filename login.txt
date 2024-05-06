@@ -1,0 +1,8 @@
+🚢 Exploratory Data Analysis of the Titanic Dataset 📊
+
+Hello Connections,
+
+I recently conducted an exploratory data analysis (EDA) on the Titanic dataset, exploring the characteristics of passengers aboard the Titanic and their survival outcomes. Here are some key insights from my analysis:
+
+Certainly! Here are some key insights might consider including from the Titanic dataset analysis:
+
